@@ -102,10 +102,10 @@
 }
 
 #rightmiddle{
-position:absolute;
+	position:absolute;
 	margin-left:480px;
 	float:right;
-	margin-top:-500px;
+	margin-top:-490px;
 }
 
 #movietitle{
