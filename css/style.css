@@ -5,6 +5,7 @@
 
 #container{
 	/*margin: 10px;*/
+	margin-left:40px;
 	width:1000px;
 	height:300px;
 }
@@ -35,7 +36,8 @@
 
 #navlist
 {
-	margin: 0;
+	margin-left:40px;
+	margin-right:50px;
 	width:990px;
 	list-style-type: none;
 	text-decoration:none;
@@ -46,10 +48,10 @@
 #navlist ul, #navlist li
 {
 	margin-bottom:20px;
-	padding: 1em;
+	padding: 2em;
 	display: inline;
 	list-style-type: none;
-	text-decoration:none;font-size:1.2em;
+	text-decoration:none;font-size:1.1em;
 	font-weight: bold;
 	color: #7a769e;
 	
