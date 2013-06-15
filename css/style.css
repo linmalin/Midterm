@@ -18,6 +18,21 @@
 	width:960px;
 	height: 300px;
 }
+#socialmedia{
+	margin-left:810px;
+	margin-bottom:30px !important;
+	margin-top:-55px;
+	width:330px;
+	position:relative;
+}
+
+#socialmedia li{
+	margin-bottom:40px;
+	margin-top:-20px !important;
+	position:relative;
+
+	display:inline;
+}
 
 #navlist
 {
@@ -78,14 +93,21 @@
 #middlecolumn{
 	margin-left:20px;
 }
-
-#rightmiddle{
-	float:right;
-	margin-right:380px;
-	margin-top:-320px;
+#middlecolumn h2{
+	color:#7a769e;
 }
 
-#content h2{
+#rightmiddle{
+position:absolute;
+	margin-left:480px;
+	float:right;
+	margin-top:-438px;
+}
+
+#movietitle{
+	width:450px;
+}
+#movietitle h3{
 	color:#7a769e;
 
 }
